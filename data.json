@@ -87,15 +87,9 @@
   "certificate": [
     {
       "id": 0,
-      "name": "TOEIC 1000점",
-      "date": "2019. 07. 28",
-      "organizer": "ETS"
-    },
-    {
-      "id": 1,
-      "name": "OPIC IH",
-      "date": "2019. 07. 28",
-      "organizer": "ETS"
+      "name": "리눅스 마스터 2급(필기)",
+      "date": "2023. 11. 09",
+      "organizer": "KAIT"
     }
   ],
 
