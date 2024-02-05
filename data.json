@@ -40,13 +40,13 @@
     },
     {
       "id": 1,
-      "name": "첫번째 개인 프로젝트",
-      "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
-      "webUrl": "https://github.com/sjoleee/",
-      "repoUrl": "https://github.com/sjoleee/",
-      "isTeam": false,
-      "period": ["2022. 10", "2022. 11"],
-      "stack": ["JavaScript", "HTML/CSS"]
+      "name": "식단 관리 어플리케이션",
+      "description": "카메라로 영상을 촬영하여 음식의 영양정보를 알려주고 메뉴판을 보고 칼로리를 알려주는 프로젝트입니다.",
+      "webUrl": "https://github.com/blackgetter/0kcal",
+      "repoUrl": "https://github.com/blackgetter/0kcal",
+      "isTeam": true,
+      "period": ["2023. 11", "2023. 11"],
+      "stack": ["C/C++", "Python", "PyQt", "HTML/CSS", "OpenCV", "OpenVino", "Rest API"]
     }
   ],
 
