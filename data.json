@@ -47,6 +47,16 @@
       "isTeam": true,
       "period": ["2023. 11", "2023. 11"],
       "stack": ["C/C++", "Python", "PyQt", "HTML/CSS", "OpenCV", "OpenVino", "Rest API"]
+    },
+    {
+      "id": 2,
+      "name": "자동 충전 타워",
+      "description": "전기차 충전 갈등 및 주차문제를 해결하기 위해 전기차 충전과 주차가 가능한 주차타워 프로젝트입니다.",
+      "webUrl": "https://github.com/blackgetter/sParkTower",
+      "repoUrl": "https://github.com/blackgetter/sParkTower",
+      "isTeam": true,
+      "period": ["2023. 12", "2024. 01"],
+      "stack": ["C/C++", "Qt", "OpenCV", "TCP/IP","ARM Cortex-M"]
     }
   ],
 
