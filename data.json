@@ -30,13 +30,13 @@
   "project": [
     {
       "id": 0,
-      "name": "자동 충전 타워",
-      "description": "전기차 충전 갈등 및 주차문제를 해결하기 위해 전기차 충전과 주차가 가능한 주차타워 프로젝트입니다.",
-      "webUrl": "https://github.com/blackgetter/sParkTower",
-      "repoUrl": "https://github.com/blackgetter/sParkTower",
+      "name": "자동 주차 시스템",
+      "description": "영상처리를 활용하여 주차선을 인식하고 주차공간이 비었을 시 ROS로 터틀봇을 자동주차하는 프로젝트 입니다.",
+      "webUrl": "https://github.com/blackgetter/AutoParking",
+      "repoUrl": "https://github.com/blackgetter/AutoParking",
       "isTeam": true,
-      "period": ["2023. 12", "2024. 01"],
-      "stack": ["C/C++", "Qt", "OpenCV", "TCP/IP","ARM Cortex-M"]
+      "period": ["2023. 10", "2023. 11"],
+      "stack": ["C/C++", "OpenCV", "ROS", "TCP/IP"]
     },
     {
       "id": 1,
@@ -50,14 +50,14 @@
     },
     {
       "id": 2,
-      "name": "자동 주차 시스템",
-      "description": "영상처리를 활용하여 주차선을 인식하고 주차공간이 비었을 시 ROS로 터틀봇을 자동주차하는 프로젝트 입니다.",
-      "webUrl": "https://github.com/blackgetter/AutoParking",
-      "repoUrl": "https://github.com/blackgetter/AutoParking",
+      "name": "자동 충전 타워",
+      "description": "전기차 충전 갈등 및 주차문제를 해결하기 위해 전기차 충전과 주차가 가능한 주차타워 프로젝트입니다.",
+      "webUrl": "https://github.com/blackgetter/sParkTower",
+      "repoUrl": "https://github.com/blackgetter/sParkTower",
       "isTeam": true,
-      "period": ["2023. 10", "2023. 11"],
-      "stack": ["C/C++", "OpenCV", "ROS", "TCP/IP"]
-    },
+      "period": ["2023. 12", "2024. 01"],
+      "stack": ["C/C++", "Qt", "OpenCV", "TCP/IP","ARM Cortex-M"]
+    }
   ],
 
   "activity": [
@@ -78,15 +78,9 @@
   "education": [
     {
       "id": 0,
-      "name": "첫번째 교육",
-      "period": ["2013. 02", "2020. 02"],
-      "description": "첫번째 교육에 대한 간략한 설명"
-    },
-    {
-      "id": 1,
-      "name": "두번째 교육",
-      "period": ["2013. 02", "2020. 02"],
-      "description": "두번째 교육에 대한 간략한 설명"
+      "name": "[Intel] 엣지 AI S/W아카데미",
+      "period": ["2023. 07", "2024. 01"],
+      "description": "펌웨어프로그래밍, S/W아키텍처, 리눅스, Edge AI 프로그래밍, Edge 디바이스 리눅스 BSP, GUI 프레임워크, 비전과 AI 머신러닝, 기업 실무 프로젝트"
     }
   ],
 
