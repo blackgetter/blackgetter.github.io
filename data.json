@@ -15,28 +15,28 @@
   "workExperience": [
     {
       "id": 0,
-      "name": "지구루",
-      "position": "Research Engineer",
-      "period": ["2022. 01", "2023. 02"]
-    },
-    {
-      "id": 1,
       "name": "가천대학교 산학협력단",
       "position": "Researcher",
       "period": ["2020. 01", "2022.01"]
+    },
+    {
+      "id": 1,
+      "name": "지구루",
+      "position": "Research Engineer",
+      "period": ["2022. 01", "2023. 02"]
     }
   ],
 
   "project": [
     {
       "id": 0,
-      "name": "자동 주차 시스템",
-      "description": "영상처리를 활용하여 주차선을 인식하고 주차공간이 비었을 시 ROS로 터틀봇을 자동주차하는 프로젝트 입니다.",
-      "webUrl": "https://github.com/blackgetter/AutoParking",
-      "repoUrl": "https://github.com/blackgetter/AutoParking",
+      "name": "자동 충전 타워",
+      "description": "전기차 충전 갈등 및 주차문제를 해결하기 위해 전기차 충전과 주차가 가능한 주차타워 프로젝트입니다.",
+      "webUrl": "https://github.com/blackgetter/sParkTower",
+      "repoUrl": "https://github.com/blackgetter/sParkTower",
       "isTeam": true,
-      "period": ["2023. 10", "2023. 11"],
-      "stack": ["C/C++", "OpenCV", "ROS", "TCP/IP"]
+      "period": ["2023. 12", "2024. 01"],
+      "stack": ["C/C++", "Qt", "OpenCV", "TCP/IP","ARM Cortex-M"]
     },
     {
       "id": 1,
@@ -50,14 +50,14 @@
     },
     {
       "id": 2,
-      "name": "자동 충전 타워",
-      "description": "전기차 충전 갈등 및 주차문제를 해결하기 위해 전기차 충전과 주차가 가능한 주차타워 프로젝트입니다.",
-      "webUrl": "https://github.com/blackgetter/sParkTower",
-      "repoUrl": "https://github.com/blackgetter/sParkTower",
+      "name": "자동 주차 시스템",
+      "description": "영상처리를 활용하여 주차선을 인식하고 주차공간이 비었을 시 ROS로 터틀봇을 자동주차하는 프로젝트 입니다.",
+      "webUrl": "https://github.com/blackgetter/AutoParking",
+      "repoUrl": "https://github.com/blackgetter/AutoParking",
       "isTeam": true,
-      "period": ["2023. 12", "2024. 01"],
-      "stack": ["C/C++", "Qt", "OpenCV", "TCP/IP","ARM Cortex-M"]
-    }
+      "period": ["2023. 10", "2023. 11"],
+      "stack": ["C/C++", "OpenCV", "ROS", "TCP/IP"]
+    },
   ],
 
   "activity": [
