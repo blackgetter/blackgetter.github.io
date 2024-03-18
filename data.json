@@ -56,7 +56,7 @@
       "repoUrl": "https://github.com/blackgetter/sParkTower",
       "isTeam": true,
       "period": ["2023. 12", "2024. 01"],
-      "stack": ["C/C++", "Qt", "OpenCV", "TCP/IP","ARM Cortex-M"]
+      "stack": ["C/C++", "Qt", "OpenCV", "TCP/IP","STM32M"]
     }
   ],
 
@@ -108,10 +108,10 @@
   "award": [
     {
       "id": 0,
-      "name": "첫번째 수상",
-      "date": "2019. 07. 28",
-      "organizer": "수여기관",
-      "description": "첫번째 수상에 대한 간략한 설명"
+      "name": "",
+      "date": "",
+      "organizer": "",
+      "description": ""
     }
   ]
 }
